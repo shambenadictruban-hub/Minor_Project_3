@@ -1,5 +1,6 @@
 # Minor_Project_3
 
+
 # SQL Pattern Programs
 
 ## Overview
@@ -137,4 +138,3 @@ Interested in **Artificial Intelligence, Machine Learning, Data Science, and Dat
 ---
 
 If you found this repository useful, consider giving it a **Star** on GitHub.
-
